@@ -1,0 +1,350 @@
+[
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552065309039,
+            "changeTime": 1552065309039,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552065309040,
+            "changeTime": 1552065309040,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552230972832,
+            "changeTime": 1552230972832,
+            "contentHash": "84d7fc8745ff8c3341915cc2eb505c1571d7da81",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552065309041,
+            "changeTime": 1552065309041,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552068104717,
+            "changeTime": 1552068104717,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552068085196,
+            "changeTime": 1552068085196,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552229618871,
+            "changeTime": 1552229618871,
+            "contentHash": "5eae9bce5d7c4c29f9b22e9ab7bf23f0c69cdf9d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552229905089,
+            "changeTime": 1552229905089,
+            "contentHash": "d4f499b09e59aff7c02249ad9cec80534bf5ad70",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes\\LandingPageController.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes\\LandingPageController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 611,
+            "modifiedTime": 1552231169536,
+            "changeTime": 1552231169536,
+            "contentHash": "0429ade2f65bf6ffe5f31cd6f059cc11990afbfe"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes\\LandingPageController.cls-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes\\LandingPageController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1552229618871,
+            "changeTime": 1552229618871,
+            "contentHash": "1659a7adb346867b5227c4496c4ea79970d29447",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages\\LandingPage.page",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages\\LandingPage.page",
+            "isDirectory": false,
+            "size": 2661,
+            "modifiedTime": 1552230050090,
+            "changeTime": 1552230050090,
+            "contentHash": "2f51158c5163e6c47ea66ad299a5ad905a80cbad",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages\\LandingPage.page-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages\\LandingPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1552229905090,
+            "changeTime": 1552229905090,
+            "contentHash": "cd27efa7e18416b72bdc9ec4c9a9d9f203ba82ea",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects\\Contact\\fields\\isLandingContact__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects\\Contact\\fields\\isLandingContact__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 345,
+            "modifiedTime": 1552230972766,
+            "changeTime": 1552230972766,
+            "contentHash": "09fbaaa046f1d32ab70fc46c11c328bad15e4af8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9615,
+            "modifiedTime": 1552230972787,
+            "changeTime": 1552230972787,
+            "contentHash": "49d7bfca421cf4cdb766d61a6bbc3e9464f881ac",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9639,
+            "modifiedTime": 1552230972805,
+            "changeTime": 1552230972805,
+            "contentHash": "c40fdf26f930086449617d241466cd2ba09a8d36",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9615,
+            "modifiedTime": 1552230972815,
+            "changeTime": 1552230972815,
+            "contentHash": "7229dad0ba7f936edf8170da8a57283e5e5a8cab",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9324,
+            "modifiedTime": 1552230972823,
+            "changeTime": 1552230972823,
+            "contentHash": "e6932278ff8c89d508db3c0e193ccb998ef1c432",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5297,
+            "modifiedTime": 1552230972835,
+            "changeTime": 1552230972835,
+            "contentHash": "235769ba022648a7262e34e5185ce561116fe039",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4961,
+            "modifiedTime": 1552230972847,
+            "changeTime": 1552230972847,
+            "contentHash": "c85dfd0167fc3974b5345d6d47970da895d20626",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4957,
+            "modifiedTime": 1552230972867,
+            "changeTime": 1552230972867,
+            "contentHash": "20c6151c42fd52776cc334d815dc94ac82e7ee8b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 19086,
+            "modifiedTime": 1552230972900,
+            "changeTime": 1552230972900,
+            "contentHash": "a84173cebda56fee6788c8c33a0cc04040b906bb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552230972766,
+            "changeTime": 1552230972766,
+            "contentHash": "851589d01fa5f7c787add87153ef8b6b3da2759b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects\\Contact",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552230972764,
+            "changeTime": 1552230972764,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552230972763,
+            "changeTime": 1552230972763,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552230972823,
+            "changeTime": 1552230972823,
+            "contentHash": "0b3377b47f1f123cebb2bb17d44827d3b828a1bf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552230972899,
+            "changeTime": 1552230972899,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
