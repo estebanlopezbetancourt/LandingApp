@@ -1,0 +1,127 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 1,
+        "passing": 1,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Mar 10, 2019 12:45 PM",
+        "testExecutionTime": "129 ms",
+        "testTotalTime": "129 ms",
+        "commandTime": "17828 ms",
+        "hostname": "https://agility-computing-9163-dev-ed.cs8.my.salesforce.com/",
+        "orgId": "00DL0000002BboTMAS",
+        "username": "test-53r82xoyudbk@example.com",
+        "testRunId": "707L000001LEQPp",
+        "userId": "005L0000004vShEIAU",
+        "testRunCoverage": "100%",
+        "orgWideCoverage": "100%"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v45.0/tooling/sobjects/ApexTestResult/07ML0000008VERjMAO"
+            },
+            "Id": "07ML0000008VERjMAO",
+            "QueueItemId": "709L0000001KcizIAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "707L000001LEQPpIAP",
+            "MethodName": "testLanding",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01pL00000026fVzIAI"
+                },
+                "Id": "01pL00000026fVzIAI",
+                "Name": "LandingPageTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 129,
+            "FullName": "LandingPageTest.testLanding"
+        }
+    ],
+    "coverage": {
+        "coverage": [
+            {
+                "id": "01pL00000026fRcIAI",
+                "name": "LandingPageController",
+                "totalLines": 14,
+                "lines": {
+                    "3": 1,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1,
+                    "9": 1,
+                    "13": 1,
+                    "14": 1,
+                    "15": 1,
+                    "16": 1,
+                    "17": 1,
+                    "18": 1,
+                    "20": 1,
+                    "21": 1,
+                    "23": 1
+                },
+                "totalCovered": 14,
+                "coveredPercent": 100
+            }
+        ],
+        "records": [
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v45.0/tooling/sobjects/ApexCodeCoverage/714L000000wKI4KIAW"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01pL00000026fVzIAI"
+                    },
+                    "Id": "01pL00000026fVzIAI",
+                    "Name": "LandingPageTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        4,
+                        5,
+                        6,
+                        9,
+                        13,
+                        14,
+                        15,
+                        16,
+                        17,
+                        18,
+                        20,
+                        21,
+                        23
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testLanding",
+                "NumLinesCovered": 14,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01pL00000026fRcIAI"
+                    },
+                    "Id": "01pL00000026fRcIAI",
+                    "Name": "LandingPageController"
+                },
+                "NumLinesUncovered": 0
+            }
+        ],
+        "summary": {
+            "totalLines": 14,
+            "coveredLines": 14,
+            "testRunCoverage": "100%",
+            "orgWideCoverage": "100%"
+        }
+    }
+}

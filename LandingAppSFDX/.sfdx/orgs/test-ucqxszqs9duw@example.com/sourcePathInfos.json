@@ -1,0 +1,120 @@
+[
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552065309039,
+            "changeTime": 1552065309039,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552065309040,
+            "changeTime": 1552065309040,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552068233349,
+            "changeTime": 1552068233349,
+            "contentHash": "b3587ec3005f5cea8963d307098889332afd22aa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552065309041,
+            "changeTime": 1552065309041,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552075238637,
+            "changeTime": 1552075238637,
+            "isWorkspace": false,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552068104717,
+            "changeTime": 1552068104717,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552075242649,
+            "changeTime": 1552075242649,
+            "isWorkspace": false,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+    ],
+    [
+        "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX",
+        {
+            "sourcePath": "c:\\dev\\salesforce-dx\\LandingApp\\LandingAppSFDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552068085196,
+            "changeTime": 1552068085196,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
